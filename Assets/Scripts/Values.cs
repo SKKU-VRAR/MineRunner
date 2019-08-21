@@ -2,7 +2,7 @@
 {
     public enum MazeComp {
         Empty = 0,
-        Mine = 0,
+        Mine = 1,
     };
 
     public enum MazeWays {
