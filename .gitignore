@@ -28,6 +28,9 @@
 # VS Code workspace settings
 /.vscode/
 
+# JetBrains Rider project settings
+/.idea/
+
 # Gradle cache directory
 .gradle/
 
